@@ -1,0 +1,7 @@
+C:\Users\adeli\Desktop\SortWebService\bin\SortWebService.dll.config
+C:\Users\adeli\Desktop\SortWebService\bin\SortWebService.dll
+C:\Users\adeli\Desktop\SortWebService\bin\SortWebService.pdb
+C:\Users\adeli\Desktop\SortWebService\obj\Debug\SortWebService.csproj.AssemblyReference.cache
+C:\Users\adeli\Desktop\SortWebService\obj\Debug\SortWebService.csproj.CoreCompileInputs.cache
+C:\Users\adeli\Desktop\SortWebService\obj\Debug\SortWebService.dll
+C:\Users\adeli\Desktop\SortWebService\obj\Debug\SortWebService.pdb
